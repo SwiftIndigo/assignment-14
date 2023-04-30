@@ -1,0 +1,2 @@
+The user testing went well. It was easy for me to share the website with a few friends and they gave me feedback within a few hours. I haven't made any changes other than a misnamed hyper link. I have a few ideas spinning around in my head and would like to get a few other things laid out before I start making any other major changes. 
+![Alt text](images/Capture.PNG)
